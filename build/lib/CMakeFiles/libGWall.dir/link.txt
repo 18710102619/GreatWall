@@ -1,0 +1,2 @@
+/usr/bin/ar qc libGWall.a CMakeFiles/libGWall.dir/hello.o
+/usr/bin/ranlib libGWall.a

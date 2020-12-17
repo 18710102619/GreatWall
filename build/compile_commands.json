@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/Users/zhanglingyu/Desktop/GreatWall/build/bin",
+  "command": "/usr/bin/clang  -I/Users/zhanglingyu/Desktop/GreatWall/libGWall -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk -o CMakeFiles/Project1.dir/main.o -c /Users/zhanglingyu/Desktop/GreatWall/Project1/main.c",
+  "file": "/Users/zhanglingyu/Desktop/GreatWall/Project1/main.c"
+},
+{
+  "directory": "/Users/zhanglingyu/Desktop/GreatWall/build/bin",
+  "command": "/usr/bin/clang  -I/Users/zhanglingyu/Desktop/GreatWall/libGWall -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk -o CMakeFiles/Project2.dir/main.o -c /Users/zhanglingyu/Desktop/GreatWall/Project2/main.c",
+  "file": "/Users/zhanglingyu/Desktop/GreatWall/Project2/main.c"
+},
+{
+  "directory": "/Users/zhanglingyu/Desktop/GreatWall/build/lib",
+  "command": "/usr/bin/clang   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk -o CMakeFiles/libGWall.dir/hello.o -c /Users/zhanglingyu/Desktop/GreatWall/libGWall/hello.c",
+  "file": "/Users/zhanglingyu/Desktop/GreatWall/libGWall/hello.c"
+}
+]

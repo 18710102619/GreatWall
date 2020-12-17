@@ -1,0 +1,106 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "bin",
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Project1",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "bin",
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Project2",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "lib",
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "libGWall",
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					],
+					"name" : "GWall",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "Project1::@90a2315b7a9c97cd24d2",
+					"jsonFile" : "target-Project1-Debug-51c6b0c10ddbd608d688.json",
+					"name" : "Project1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "Project2::@90a2315b7a9c97cd24d2",
+					"jsonFile" : "target-Project2-Debug-607c1709c758bc37360a.json",
+					"name" : "Project2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "libGWall::@306ed2d68c6501e8728f",
+					"jsonFile" : "target-libGWall-Debug-9f23bc1ed76e66cce000.json",
+					"name" : "libGWall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/zhanglingyu/Desktop/GreatWall/build",
+		"source" : "/Users/zhanglingyu/Desktop/GreatWall"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

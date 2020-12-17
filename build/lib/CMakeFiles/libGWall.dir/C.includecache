@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhanglingyu/Desktop/GreatWall/libGWall/hello.c
+stdio.h
+-
+hello.h
+/Users/zhanglingyu/Desktop/GreatWall/libGWall/hello.h
+
+/Users/zhanglingyu/Desktop/GreatWall/libGWall/hello.h
+

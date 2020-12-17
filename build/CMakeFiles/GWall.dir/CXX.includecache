@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhanglingyu/Desktop/GreatWall/main.cpp
+iostream
+-
+add.h
+/Users/zhanglingyu/Desktop/GreatWall/add.h
+

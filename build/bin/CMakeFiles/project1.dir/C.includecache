@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../libGWall/hello.h
+
+/Users/zhanglingyu/Desktop/GreatWall/Project1/main.c
+hello.h
+/Users/zhanglingyu/Desktop/GreatWall/Project1/hello.h
+
