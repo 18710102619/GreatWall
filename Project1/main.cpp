@@ -1,6 +1,7 @@
 #include "hello.h"
+
 int main()
 {
-    hello("Project1");
+    getchar();
     return 0;
 }
